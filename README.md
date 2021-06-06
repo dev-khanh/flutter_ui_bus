@@ -1,17 +1,11 @@
 # flutter_ui_challenges
 
-A new Flutter project.
+A new Flutter project UI BUs.
 
 ## Getting Started
 ![UI Bus](https://raw.githubusercontent.com/dev-khanh/flutter_ui_bus/master/image/ui.png) 
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|Before| After |
+|--------|--------|
+|![Simulator Screen Shot - iPhone 11 - 2021-04-15 at 21 19 04](https://user-images.githubusercontent.com/72178274/114885783-3386f200-9e31-11eb-8349-4a2b40ada665.png)|![Simulator Screen Shot - iPhone 11 - 2021-04-15 at 21 19 17](https://user-images.githubusercontent.com/72178274/114885804-38e43c80-9e31-11eb-9884-a81428e950c1.png)|
