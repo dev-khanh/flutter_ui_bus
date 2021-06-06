@@ -3,6 +3,7 @@
 A new Flutter project.
 
 ## Getting Started
+![UI Bus](https://raw.githubusercontent.com/dev-khanh/flutter_ui_bus/master/image/ui.png) 
 
 This project is a starting point for a Flutter application.
 
